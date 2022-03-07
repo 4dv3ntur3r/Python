@@ -18,4 +18,4 @@ while quiz.still_has_questions():
 print("You completed the quiz")
 print(f"Your final score is {quiz.score}/{quiz.question_number}")
 
-# if needed use this link to generate new questions
+# if needed use this link to generate new questions https://opentdb.com/
